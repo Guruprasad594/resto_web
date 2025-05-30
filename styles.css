@@ -1,0 +1,89 @@
+body {
+    background: url("bg2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+    
+    
+}
+#logo img{
+     width: 85px;
+    position: relative;
+    top: 29px;
+    left: 50px;
+    border-radius:50px;
+    }
+#navs a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 20px;
+    
+    position: relative;
+    bottom: 31px;
+    left: 220px;
+    text-transform: uppercase;
+    margin: 35px;
+    
+    
+ }
+#cta button{
+    position: relative;
+    left: 1210px;
+    bottom: 81px;
+    width: 142px;
+    height: 42px;
+    font-size: 14px;
+    background-color: #a77000;
+    color: rgb(255, 255, 255);
+    border: 2px solid #a77000;
+    border-radius: 7px;
+
+}
+#body h1{
+    position: relative;
+    left: 404px;
+    top: 286px;
+    font-size: 41px;
+    color: floralwhite;
+    font-style: italic;
+}
+#body hr{
+    position: relative;
+    left: -392px;
+    top: 338px;
+    width: 84px;
+}
+#header hr{
+    position: relative;
+    left: 360px;
+    top: 397px;
+    width: 84px;
+}
+#webfoot{
+    position: absolute;
+    width: -webkit-fill-available;
+    height: 318px;
+    top: 851px;
+    right: -1px;
+    background-color: rgb(119 60 4); 
+}
+#webfoot hr{
+position: absolute;
+top: 51px;
+left: 0px;
+color: aliceblue;
+width: 1525px;
+}
+#webfoot a{
+    position: absolute;
+    left: 28px;
+    top: 120px;
+    color: aliceblue;
+    line-height: 32px;
+}
+#webfoot p1{
+    position: absolute;
+    color: aliceblue;
+    left: 28px;
+    top: 80px;
+}
